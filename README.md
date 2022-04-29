@@ -18,7 +18,13 @@ I am also a lover of Motorcycles and Trikes and currently own 2 Harley-Davidson'
 
 * Markdown - Markdown is a very easy to learn, easy to use, and portable formatting language
 * Git - Is a "Source Code Manager" or versioning tool, do not let source code scare you, Git is a very powerful tool
+* Command Line Interface (CLI) or Powershell, CLI is the engine that powers most of the development world and to use Git, you need to understand CLI/PS
 
+[Codecademy](https://www.codecademy.com/) has courses on [Git](https://www.codecademy.com/learn/learn-git) and [CLI](https://www.codecademy.com/catalog/language/bash) that are very good and fast paced.
+
+[FreeCodeCamp](https://freecodecamp.org) also has a ton of great free content and resources to learn 
+[Git and GitHub for Beginners - Crash Course freeCodeCamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
+[Git & GitHub Crash Course For Beginners Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ### Tools and Toolbox
 
@@ -27,6 +33,8 @@ I will do my best to keep this list relevant but it does change with the times.
 * [VS Code](https://visualstudio.microsoft.com/) - Your one and only IDE, trust me on this, unless you write code daily VS Code is the most flexible IDE you can download and use for free today
 
 * [GitHub Account](https://github.com/) - You are reading a github page right now, star it with your own account, tons of tech stuff is documented in GitHub or similar tools, GitHub uses markdown so you can see why learning it is important.
+
+* An [Azure](https://azure.microsoft.com/en-us/), [AWS](https://aws.amazon.com/), or [Google Cloud](https://cloud.google.com/) account. All offer dev accounts for free or close to free, pick one or all of them but understand the basics of these services as they are the future of tech, still.
 
 ### Links, manuals, cheatsheets and other stuff
 
