@@ -8,7 +8,7 @@ I recently started working with a new group of people with great ideas but not a
 
 ### Things to learn
 
-* Markdown - Markdown is a very easy to learn, easy to use, and portable formatting language
+* Markdown - Markdown is a very easy to learn, easy to use, and portable formatting language. [Here is a link](https://gohugo.io/content-management/formats/#learn-markdown) to some really good links to start 
 * Git - Is a "Source Code Manager" or versioning tool, do not let source code scare you, Git is a very powerful tool
 * Command Line Interface (CLI) or Powershell, CLI is the engine that powers most of the development world and to use Git, you need to understand CLI/PS
 
